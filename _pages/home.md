@@ -1,16 +1,18 @@
 ---
 title: "HDSU - home"
 layout: homelay
-excerpt: "Health Data Science Unit @ BioQuant"
+excerpt: "Andres Quintero - Computational Biologist"
 sitemap: false
 permalink: /
 ---
 
-Welcome to the **Biomedical Genomics Group @ Health Data Science Unit** !
+Welcome to my personal website, I am a computational biologist with graduate and post-doctoral work focusing on multimodal data integration and machine learning.  
 
-We are part of the [BioQuant Center](https://www.bioquant.uni-heidelberg.de/) and [Medical Faculty Heidelberg](http://www.medizinische-fakultaet-hd.uni-heidelberg.de). We are working on understanding **gene (de)regulation in disease**, in particular cancer, mental disorders and infection. 
+I have experience in the development and implementation of computational tools for single-cell multi-omics data analysis and identification of molecular signatures.
+  
+My research goal is the development and application of computational tools for understanding biological processes for target gene discovery in unmet human diseases.
 
-We develop novel methods to integrate large scale genomics datasets, using statistical and machine-learning approaches. We focus in particular on epigenomics data and single-cell approaches.
+<!-- We develop novel methods to integrate large scale genomics datasets, using statistical and machine-learning approaches. We focus in particular on epigenomics data and single-cell approaches. -->
 
 
 

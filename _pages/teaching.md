@@ -19,21 +19,7 @@ ___
 
 ## Courses
 
-All courses given by Dr. Carl Herrmann
-### Summer Semester 2022
-- MoBi Bachelor 4. FS : <a href="{{ site.url }}{{ site.baseurl }}/data2022.html">Data Analysis Project Module 2022</a>
 
-### Winter semester 2021 / 2022
-- HeiCuMed Wahlfachtrack "Digitale Medizin": Einführung in maschinellem Lernen [[pdf]](../downloads/WFT_IntroML.pdf)
-- MoBi Bachelor 1. FS : [Mathematik A](http://bioinfo.ipmb.uni-heidelberg.de/crg/mathea/)
-- MoBi Bachelor 3. FS : [Data Analysis Course](http://bioinfo.ipmb.uni-heidelberg.de/crg/datascience3fs/)
-- MoBi Bachelor 5. FS : [Bioinformatics 1](http://bioinfo.ipmb.uni-heidelberg.de/crg/bioinfo1/)
-- MoBi Master : [Meet-EU project module](http://bioinfo.ipmb.uni-heidelberg.de/crg/master-meetu/)
-- MoBi Master : [Seminar Biological Networks (with J. Saez Rodriguez)](http://bioinfo.ipmb.uni-heidelberg.de/crg/seminar-network/index.html)
-
-### Summer semester 2021
-- MoBi Bachelor 2. FS : Mathematik B
-- MoBi Bachelor 4. FS : [Data Analysis Project Module](https://datascience-mobi.github.io/)
 
 ### Tutorials / Advanced courses
 - Course on Multiome Single-cell integration given at SinCellTE 2022 Winter school in Roscoff : [website](http://www.hdsu.org/sincellTE_2022/)
