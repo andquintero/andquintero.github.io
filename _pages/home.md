@@ -7,9 +7,9 @@ permalink: /
 ---
 
 Welcome to my personal website, I am a computational biologist with graduate and post-doctoral work focusing on multimodal data integration and machine learning.  
-
-I have experience in the development and implementation of computational tools for single-cell multi-omics data analysis and identification of molecular signatures.
   
+I have experience in the development and implementation of computational tools for single-cell multi-omics data analysis and identification of molecular signatures.
+   
 My research goal is the development and application of computational tools for understanding biological processes for target gene discovery in unmet human diseases.
 
 <!-- We develop novel methods to integrate large scale genomics datasets, using statistical and machine-learning approaches. We focus in particular on epigenomics data and single-cell approaches. -->
