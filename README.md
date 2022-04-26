@@ -1,27 +1,32 @@
-# Minimal Mistakes remote theme starter
+# HDSU Website
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This is the website of our academic research group HDSU at the BioQuant Center and Medical Faculty Heidelberg.
 
-Contains basic configuration to get you a site with:
+## Customization
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+### Add a new publication:
+1. Edit the file  `_data/publist.ylm` and include the new publication information.
+2. If you want to highlight the new publication make sure to set `highlight: 1` in the publication info.
+3. Include a representative figure for the publication in the folder `images/pubpic`, please follow this naming scheme: `yearOfPublication_LastnameFirstAuthor.png`
 
----
 
-## Troubleshooting
+### Add a new team member:
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+**New permanent member**
+1. Add a 7x10cm at 300dpi png photo in the folder `images/teampic`
+2. Edit the file  `_data/team.ylm` and include the new team member name and a short description of their research and hobbies.
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+
+**New bachelor or master student**
+1. Edit the file  `_data/students.ylm` and include the new team member name..
+
+**Move member to the alumni section**
+1. Copy the alumni information from the file  `_data/team.ylm` or `_data/students.ylm`.
+2. Paste the alumni information in the corresponding alumni file: `_data/alumni_members.ylm`, `_data/alumni_bsc.ylm`, `_data/alumni_msc.ylm`, `_data/alumni_visitors.ylm`
+
+
+
+
+
+

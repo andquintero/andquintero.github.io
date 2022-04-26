@@ -1,0 +1,50 @@
+- name: Carl Herrmann
+  photo: CarlHerrmann.png
+  info: Assistant-professor 
+  email: carl.herrmann@bioquant.uni-heidelberg.de
+  number_educ: 4
+  education1: Engineering degree Ecole Nationale des Ponts et Chaussées, Paris (1994)
+  education2: PhD & Postdoc in theoretical physics (Marseille, Halle, Turin 1999-2003)
+  education3: Assistant-professor in Bioinformatics at University Marseille (2003 - 2012)
+  education4: <a href='../downloads/CV_CarlHerrmann_en.pdf'>[full CV]</a>
+  
+- name: Carlos Ramirez
+  photo: Carlos_Ramirez.png
+  info: Postdoc
+  email: carlos.ramirez@bioquant.uni-heidelberg.de
+
+- name: Andres Quintero
+  photo: Andres_Quintero.png
+  info: Postdoc
+  email: andres.quintero@bioquant.uni-heidelberg.de
+
+- name: Ana Luisa Costa
+  photo: Ana_Costa.png
+  info: PhD student
+  email: ana.costa@bioquant.uni-heidelberg.de
+
+- name: Daria Doncevic
+  photo: Daria_Doncevic.png
+  info: PhD student
+  email: daria.doncevic@bioquant.uni-heidelberg.de
+
+- name: Youcheng Zhang
+  photo: Youcheng_Zhang.png
+  info: PhD student
+  email: youcheng.zhang@bioquant.uni-heidelberg.de
+  
+- name: Lin Yang
+  photo: Lin_Yang.jpg
+  info: visiting PhD student
+  email: younglin113@163.com
+  
+- name: Katharina Mikulik
+  photo: Katharina_Mikulik.jpeg
+  info: Master student
+  email: katharina.mikulik@stud.uni-heidelberg.de
+ 
+- name: Qian-Wu Liao
+  photo: Qian-Wu_Liao.png
+  info: Master student
+  email: QianWu.Liao@stud.uni-heidelberg.de
+

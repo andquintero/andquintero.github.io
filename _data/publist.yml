@@ -1,0 +1,501 @@
+
+# - title: "title"
+#   image: dummy.png
+#   description: 
+#   authors: 
+#   link:
+#     url: 
+#     display: 
+#   highlight: 0
+#   news2: 
+
+- title: "The DNA methylation landscape of multiple myeloma shows extensive inter-and intrapatient heterogeneity that fuels transcriptomic variability"
+  image: dummy.png
+  description: Cancer evolution depends on epigenetic and genetic diversity. Historically, in multiple myeloma (MM), subclonal diversity and tumor evolution have been investigated mostly from a genetic perspective. Here, we performed an analysis of 42 MM samples from 21 patients by using enhanced reduced representation bisulfite sequencing (eRRBS). We combined several metrics of epigenetic heterogeneity to analyze DNA methylation heterogeneity in MM patients. We show that MM is characterized by the continuous accumulation of stochastic methylation at the promoters of development-related genes. High combinatorial entropy change is associated with poor outcomes in our pilot study and depends predominantly on partially methylated domains (PMDs). These PMDs, which represent the major source of inter- and intrapatient DNA methylation heterogeneity in MM, are linked to other key epigenetic aberrations, such …
+  authors: Jennifer Derrien, Catherine Guérin-Charbonnel, Victor Gaborit, Loïc Campion, Magali Devic, Elise Douillard, Nathalie Roi, Hervé Avet-Loiseau, Olivier Decaux, Thierry Facon, Jan-Philipp Mallm, Roland Eils, Nikhil C Munshi, Philippe Moreau, Carl Herrmann, Florence Magrangeas, Stéphane Minvielle
+  link:
+    url: https://link.springer.com/article/10.1186/s13073-021-00938-3
+    display: Genome Medicine (2021)
+  highlight: 0
+  news2: 
+
+- title: "Chromatin accessibility combined with enhancer clusters activation mediates heterogeneous response to dexamethasone in myeloma cells"
+  image: dummy.png
+  description: Glucocorticoids (GC) effects occur through binding to the GC receptor (GR) which, once translocated to the nucleus, binds to GC response elements (GREs) to activate or repress target genes. Among GCs, dexamethasone (Dex) is widely used in treatment of multiple myeloma (MM), mainly in combination regimens. However, despite a definite benefit, all patients relapse. Moreover, while GC efficacy can be largely attributed to lymphocyte-specific apoptosis, its molecular basis remains elusive. To determine the functional role of GR binding in myeloma cells, we generated bulk and single cell multi-omic data and high-resolution contact maps of active enhancers and target genes. We show that a minority (6%) of GR binding sites are associated with enhancer activity gains and increased interaction loops. We find that enhancers contribute to regulate gene activity through combinatorial assembly of large stretches of enhancers and/or enhancer cliques. Furthermore, one enhancer, proximal to GR-responsive genes, is predominantly associated with increased chromatin accessibility and higher H3K27ac occupancy. Finally, we show that Dex exposure leads to co-accessibility changes between predominant enhancer and other regulatory regions of the interaction network. Notably, these epigenomic changes are associated with cell-to-cell transcriptional heterogeneity. As consequences, BIM critical for GR-induced apoptosis and CXCR4 protective from chemotherapy-induced apoptosis are rather upregulated in different cells. In summary, our work provides new insights into the molecular mechanisms involved in Dex escape.
+  authors: Victor Gaborit, Jonathan Cruard, Catherine Guérin-Charbonnel, Jennifer Derrien, Jean-Baptiste Alberge, Elise Douillard, Nathalie Roi, Magali Devic, Loïc Campion, Frank Westermann, Philippe Moreau, Carl Herrmann, Jérémie Bourdon, Florence Magrangeas, Stephane Minvielle
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2021.09.06.459068v1
+    display: BioRxiv (2021)
+  highlight: 0
+  news2: 
+
+- title: "Derepression of retroelements in acute myeloid leukemia with 3q aberrations"
+  image: dummy.png
+  description: Acute myeloid leukemia (AML) with chromosomal rearrangements inv (3)/t (3; 3)(3q-AML) is a rare but highly fatal subtype of leukemia. It is characterized by an aberrant transcription of the proto-oncogene EVI1 (ecotropic viral integration site 1, MECOM) as a result of the chromosomal 3q21q26 rearrangements that lead to the relocation of a master GATA2 distal hematopoietic enhancer to the EVI1 locus and deregulation of both genes. 1, 2 To date, little is known about what triggers chromosomal rearrangements in 3q-AML that ultimately lead to the deregulation of EVI1 via the repositioning of G2DHE. However, recent studies have shown evidence for the involvement of endogenous transposable elements of RNA family (retroelements [RE]) in the formation of complex chromosomal aberrations, including translocations, large-scale duplications and amplifications through retrotransposition across different cancer …
+  authors: Jagoda Mika, Sophie Ottema, Sandra Kiehlmeier, Sabrina Kruse, Leonie Smeenk, Judith Müller, Sabrina Schweiggert, Carl Herrmann, Mathijs Sanders, Ruud Delwel, Stefan Gröschel
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8327721/
+    display: Haematologica (2021)
+  highlight: 0
+  news2: 
+
+- title: "The endogenous cellular protease inhibitor SPINT2 controls SARS-CoV-2 viral infection and is associated to disease severity"
+  image: 2021_Ramirez.png
+  description: We describe a new important actor which plays a decisive role in the entry of the virus into the cell. The serine protease inhibitor SPINT2 inhibits the well described serine protease TMPRSS2, and we show that inhibiting or overexpressing this gene leads to an increase, respectively a strong decrease of the number of infected cells. Intriguingly, this gene has been described in the context of diseases which are known to be comorbid with COVID19, for example Type 2 diabetes and several malignancies. 
+  authors: Carlos Ramirez Alvarez, Carmon Kee, Ashwini Kumar Sharma, Leonie Thomas, Florian I Schmidt, Megan L Stanifer, Steeve Boulant\*, Carl Herrmann\*
+  link:
+    url: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009687
+    display:  "PLOS Pathog 17(6): e1009687 (2021)" 
+  highlight: 1
+  news2: 
+
+- title: "Single-cell transcriptomic analyses provide insights into the developmental origins of neuroblastoma"
+  image: 2021_Jansky.png
+  description: Neuroblastoma is a pediatric tumor of the developing sympathetic nervous system. However, the cellular origin of neuroblastoma has yet to be defined. Here we studied the single-cell transcriptomes of neuroblastomas and normal human developing adrenal glands at various stages of embryonic and fetal development. We defined normal differentiation trajectories from Schwann cell precursors over intermediate states to neuroblasts or chromaffin cells and showed that neuroblastomas transcriptionally resemble normal fetal adrenal neuroblasts. Importantly, neuroblastomas with varying clinical phenotypes matched different temporal states along normal neuroblast differentiation trajectories, with the degree of differentiation corresponding to clinical prognosis. Our work highlights the roles of oncogenic MYCN and loss of TFAP2B in blocking differentiation and may provide the basis for designing therapeutic interventions to overcome differentiation blocks.
+  authors: Selina Jansky, Ashwini Kumar Sharma, Verena Körber, Andrés Quintero, Umut H Toprak, Elisa M Wecht, Moritz Gartlgruber, Alessandro Greco, Elad Chomsky, Thomas GP Grünewald, Kai-Oliver Henrich, Amos Tanay, Carl Herrmann, Thomas Höfer, Frank Westermann
+  link:
+    url: https://www.nature.com/articles/s41588-021-00806-1
+    display: Nature genetics (2021)
+  highlight: 0
+  news2: See also [Behing the Paper](https://cancercommunity.nature.com/posts/on-a-quest-to-identify-the-origin-of-neuroblastoma)
+
+- title: "Kalirin-RAC controls nucleokinetic migration in ADRN-type neuroblastoma"
+  image: dummy.png
+  description: The migrational propensity of neuroblastoma is affected by cell identity, but the mechanisms behind the divergence remain unknown. Using RNAi and time-lapse imaging, we show that ADRN-type NB cells exhibit RAC1- and kalirin-dependent nucleokinetic (NUC) migration that relies on several integral components of neuronal migration. Inhibition of NUC migration by RAC1 and kalirin-GEF1 inhibitors occurs without hampering cell proliferation and ADRN identity. Using three clinically relevant expression dichotomies, we reveal that most of up-regulated mRNAs in RAC1- and kalirin–GEF1–suppressed ADRN-type NB cells are associated with low-risk characteristics. The computational analysis shows that, in a context of overall gene set poverty, the upregulomes in RAC1- and kalirin–GEF1–suppressed ADRN-type cells are a batch of AU-rich element–containing mRNAs, which suggests a link between NUC …
+  authors: Elena A Afanasyeva, Moritz Gartlgruber, Tatsiana Ryl, Bieke Decaesteker, Geertrui Denecker, Gregor Mönke, Umut H Toprak, Andres Florez, Alica Torkov, Daniel Dreidax, Carl Herrmann, Konstantin Okonechnikov, Sara Ek, Ashwini Kumar Sharma, Vitaliya Sagulenko, Frank Speleman, Kai-Oliver Henrich, Frank Westermann
+  link:
+    url: https://www.life-science-alliance.org/content/4/5/e201900332.abstract
+    display:  Life science alliance (2021)
+  highlight: 0
+  news2: 
+
+- title: "Identification of therapeutic targets of the hijacked super-enhancer complex in EVI1-rearranged leukemia"
+  image: dummy.png
+  description: Deregulation of the EVI1 proto-oncogene by the GATA2 distal hematopoietic enhancer (G2DHE) is a key event in high-risk acute myeloid leukemia carrying 3q21q26 aberrations (3q-AML). Upon chromosomal rearrangement, G2DHE acquires characteristics of a super-enhancer and causes overexpression of EVI1 at 3q26. 2. However, the transcription factor (TF) complex of G2DHE remains poorly characterized. The aim of this study was to unravel key components of G2DHE-bound TFs involved in the deregulation of EVI1. We have identified several CEBPA and RUNX1 binding sites to be enriched and critical for G2DHE function in 3q-AML cells. Using ChIP-SICAP (ChIP followed by selective isolation of chromatin-associated proteins), a panel of chromatin interactors of RUNX1 and CEBPA were detected in 3q-AML, including PARP1 and IKZF1. PARP1 inhibition (PARPi) caused a reduction of EVI1 expression and …
+  authors: Sandra Kiehlmeier, Mahmoud-Reza Rafiee, Ali Bakr, Jagoda Mika, Sabrina Kruse, Judith Müller, Sabrina Schweiggert, Carl Herrmann, Gianluca Sigismondo, Peter Schmezer, Jeroen Krijgsveld, Stefan Gröschel
+  link:
+    url: https://www.nature.com/articles/s41375-021-01235-z
+    display: Leukemia (2021)
+  highlight: 0
+  news2: 
+
+- title: "Single‐cell analyses reveal SARS‐CoV‐2 interference with intrinsic immune response in the human gut"
+  image: dummy.png
+  description: Exacerbated pro-inflammatory immune response contributes to COVID-19 pathology. However, despite the mounting evidence about SARS-CoV-2 infecting the human gut, little is known about the antiviral programs triggered in this organ. To address this gap, we performed single-cell transcriptomics of SARS-CoV-2-infected intestinal organoids. We identified a subpopulation of enterocytes as the prime target of SARS-CoV-2 and, interestingly, found the lack of positive correlation between susceptibility to infection and the expression of ACE2. Infected cells activated strong pro-inflammatory programs and produced interferon, while expression of interferon-stimulated genes was limited to bystander cells due to SARS-CoV-2 suppressing the autocrine action of interferon. These findings reveal that SARS-CoV-2 curtails the immune response and highlights the gut as a pro-inflammatory reservoir that should be considered to fully understand SARS-CoV-2 pathogenesis.
+  authors: Sergio Triana, Camila Metz‐Zumaran, Carlos Ramirez, Carmon Kee, Patricio Doldan, Mohammed Shahraz, Daniel Schraivogel, Andreas R Gschwind, Ashwini K Sharma, Lars M Steinmetz, Carl Herrmann, Theodore Alexandrov, Steeve Boulant, Megan L Stanifer
+  link:
+    url: https://www.embopress.org/doi/full/10.15252/msb.202110232
+    display: Molecular systems biology (2021)
+  highlight: 0
+  news2: 
+
+- title: "Identifying multimodal signatures underlying the somatic comorbidity of psychosis: the COMMITMENT roadmap"
+  image: dummy.png
+  description: Schizophrenia carries an excess mortality of over 10 years that is largely due to somatic comorbidity with disorders including type 2 diabetes and cardiovascular diseases (CVD). With metabolic abnormalities found in medication-naïve and first-episode patients, and an increased type 2 diabetes risk in relatives of individuals with schizophrenia, there is substantial evidence that the elevated prevalence of type 2 diabetes in schizophrenia is a partially treatment-independent comorbidity. Individuals with schizophrenia also show a 50% increased risk of dying from CVD compared to the general population, which accounts for even more premature deaths. Besides an unhealthy lifestyle, the CVD incidence is attributed to risk factors believed to be comorbid with schizophrenia, and genetics studies suggest an underlying pleiotropy that supports shared mechanistic effects between both conditions. As patients are treated largely by a “one-fits-all” approach, there is a strong need to identify biological means to stratify patients and characterize the biological basis of somatic comorbidity. This will allow improved clinical delineation of psychoses and facilitate novel intervention strategies targeted at the minimization of comorbidity risk, reducing mortality and morbidity.
+  authors: Emanuel Schwarz, Dag Alnæs, Ole A Andreassen, Han Cao, Junfang Chen, Franziska Degenhardt, Daria Doncevic, Dominic Dwyer, Roland Eils, Jeanette Erdmann, Carl Herrmann, Martin Hofmann-Apitius, Tobias Kaufmann, Nikolaos Koutsouleris, Alpha T Kodamullil, Adyasha Khuntia, Sören Mucha, Markus M Nöthen, Riya Paul, Mads L Pedersen, Andres Quintero, Heribert Schunkert, Ashwini Sharma, Heike Tost, Lars T Westlye, Youcheng Zhang, Andreas Meyer-Lindenberg
+  link:
+    url: https://www.nature.com/articles/s41380-020-00915-z
+    display: Molecular Psychiatry (2021)
+  highlight: 0
+  news2: 
+
+- title: "Alternative lengthening of telomeres in childhood neuroblastoma from genome to proteome"
+  image: dummy.png
+  description: Telomere maintenance by telomerase activation or alternative lengthening of telomeres (ALT) is a major determinant of poor outcome in neuroblastoma. Here, we screen for ALT in primary and relapsed neuroblastomas (n = 760) and characterize its features using multi-omics profiling. ALT-positive tumors are molecularly distinct from other neuroblastoma subtypes and enriched in a population-based clinical sequencing study cohort for relapsed cases. They display reduced ATRX/DAXX complex abundance, due to either ATRX mutations (55%) or low protein expression. The heterochromatic histone mark H3K9me3 recognized by ATRX is enriched at the telomeres of ALT-positive tumors. Notably, we find a high frequency of telomeric repeat loci with a neuroblastoma ALT-specific hotspot on chr1q42.2 and loss of the adjacent chromosomal segment forming a neo-telomere. ALT-positive neuroblastomas proliferate slowly, which is reflected by a protracted clinical course of disease. Nevertheless, children with an ALT-positive neuroblastoma have dismal outcome.
+  authors: Sabine A Hartlieb, Lina Sieverling, Michal Nadler-Holly, Matthias Ziehm, Umut H Toprak, Carl Herrmann, Naveed Ishaque, Konstantin Okonechnikov, Moritz Gartlgruber, Young-Gyu Park, Elisa Maria Wecht, Larissa Savelyeva, Kai-Oliver Henrich, Carolina Rosswog, Matthias Fischer, Barbara Hero, David TW Jones, Elke Pfaff, Olaf Witt, Stefan M Pfister, Richard Volckmann, Jan Koster, Katharina Kiesel, Karsten Rippe, Sabine Taschner-Mandl, Peter Ambros, Benedikt Brors, Matthias Selbach, Lars Feuerbach, Frank Westermann
+  link:
+    url: https://www.nature.com/articles/s41467-021-21247-8
+    display: Nature communications (20201)
+  highlight: 0
+  news2: 
+
+- title: "dsMTL-a computational framework for privacy-preserving, distributed multi-task machine learning"
+  image: 2021_Cao.png
+  description: Multitask learning allows the simultaneous learning of multiple algorithms. Here, we describe the development of dsMTL, a computational framework for privacy-preserving, distributed multi-task machine learning that includes three supervised and one unsupervised algorithms.
+  authors: Han Cao\*, Youcheng Zhang\*, Jan Baumbach, Paul R Burton, Dominic Dwyer, Nikolaos Koutsouleris, Julian Matschinske, Yannick Marcon, Sivanesan Rajan, Thilo Rieg, Patricia Ryser-Welch, Julian Späth, Carl Herrmann\*, Emanuel Schwarz\*
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2021.08.26.457778.abstract
+    display: bioRxiv (2021)
+  highlight: 1
+  news2: 
+
+- title: "MYCN mediates cysteine addiction and sensitizes to ferroptosis"
+  image: dummy.png
+  description: Aberrant expression of MYC family members predicts poor clinical outcome in many human cancers. Oncogenic MYC profoundly alters metabolism and mediates an antioxidant response to maintain redox balance. Here we show that MYC induces massive lipid peroxidation upon depletion of cysteine, the rate-limiting amino acid for glutathione biosynthesis and sensitizes cells to ferroptosis, an oxidative, non-apoptotic and iron-dependent type of cell death. In MYCN-amplified childhood neuroblastoma, MYCN mediates resistance to ferroptosis by activating transsulfuration of methionine to cysteine. MYCN may contribute to spontaneous tumor regression in low-risk neuroblastomas by promoting ferroptosis in cells with epigenetically silenced cystathionine-beta-synthase, the rate-limiting enzyme for transsulfuration. We identified enzymes and antiporter proteins crucial to ferroptotic escape, providing multiple previously unknown sites that may be acted on therapeutically.
+  authors: Hamed Alborzinia, Andres F Florez, Sina Gogolin, Lena M Brueckner, Chunxuan Shao, Moritz Gartlgruber, Michal Nadler Holly, Matthias Ziehm, Franziska Paul, Sebastian Steinhauser, Emma Bell, Marjan Shaikhkarami, Sabine Hartlieb, Daniel Dreidax, Elisa M Hess, Jochen Kreth, Gernot Poschet, Michael Buettner, Barbara Nicke, Carlo Stresemann, Jan H Reiling, Matthias Fischer, Ido Amit, Matthias Selbach, Carl Herrmann, Stefan Woelfl, Kai Oliver Henrich, Thomas Hoefer, Frank Westermann
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2021.08.10.455675.abstract
+    display: bioRxiv (2021)
+  highlight: 0
+  news2: 
+
+- title: "Integrative ranking of enhancer networks facilitates the discovery of epigenetic markers in cancer"
+  image: dummy.png
+  description: Regulation of gene expression through multiple epigenetic components is a highly combinatorial process. Alterations in any of these layers, as is commonly found in cancer diseases, can lead to a cascade of downstream effects on tumor suppressor or oncogenes. Hence, deciphering the effects of epigenetic alterations on regulatory elements requires innovative computational approaches that can benefit from the huge amounts of epigenomic datasets that are available from multiple consortia, such as Roadmap or BluePrint. We developed a software tool named IRENE (Integrative Ranking of Epigenetic Network of Enhancers), which performs quantitative analyses on differential epigenetic modifications through an integrated, network-based approach. The method takes into account the additive effect of alterations on multiple regulatory elements of a gene. Applying this tool to well-characterized test cases, it successfully found many known cancer genes from publicly available cancer epigenome datasets.
+  authors: Qi Wang, Yonghe Wu, Tim Vorberg, Roland Eils, Carl Herrmann
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8201988/
+    display: Frontiers in genetics (2021)
+  highlight: 0
+  news2: 
+
+- title: "Super enhancers define regulatory subtypes and cell identity in neuroblastoma"
+  image: 2021_Gartlgruber.png
+  description: Using genome-wide H3K27ac profiles across 60 NBs, we identified four major super-enhancer-driven epigenetic subtypes and their underlying master regulatory networks. Three of these subtypes recapitulated known clinical groups, while the fourth subtype, exhibiting mesenchymal characteristics, ressemblance to Schwann cell precursors, was induced by RAS activation and was enriched in relapsed disease. This study reveals subtype-specific super-enhancer regulation in NBs.
+  authors: Moritz Gartlgruber\*, Ashwini Kumar Sharma\*, Andrés Quintero\*, Daniel Dreidax\*, Selina Jansky, Young-Gyu Park, Sina Kreth, Johanna Meder, Daria Doncevic, Paul Saary, Umut H Toprak, Naveed Ishaque, Elena Afanasyeva, Elisa Wecht, Jan Koster, Rogier Versteeg, Thomas GP Grünewald, David TW Jones, Stefan M Pfister, Kai-Oliver Henrich, Johan van Nes, Carl Herrmann\*, Frank Westermann\*
+  link:
+    url: https://www.nature.com/articles/s43018-020-00145-w
+    display: Nature Cancer (2021)
+  highlight: 1
+  news2: 
+
+- title: "Glioblastoma epigenome profiling identifies SOX10 as a master regulator of molecular tumour subtype"
+  image: 2020_Wu.png
+  description: Glioblastoma frequently exhibits therapy-associated subtype transitions to mesenchymal phenotypes with adverse prognosis. Here, we perform multi-omic profiling of 60 glioblastoma primary tumours and identify 38 subtype master regulators. SOX10 repression in an in vivo glioblastoma mouse model results in increased tumour invasion, immune cell infiltration and significantly reduced survival, reminiscent of progressive human glioblastoma. These results identify SOX10 as a bona fide master regulator of the RTK I subtype, with both tumour cell-intrinsic and microenvironmental effects.
+  authors: Yonghe Wu\*, Michael Fletcher\*, Zuguang Gu\*, Qi Wang, Barbara Costa, Anna Bertoni, Ka-Hou Man, Magdalena Schlotter, Jörg Felsberg, Jasmin Mangei, Martje Barbus, Ann-Christin Gaupel, Wei Wang, Tobias Weiss, Roland Eils, Michael Weller, Haikun Liu, Guido Reifenberger, Andrey Korshunov, Peter Angel, Peter Lichter, Carl Herrmann\*, Bernhard Radlwimmer\*
+  link:
+    url: https://www.nature.com/articles/s41467-020-20225-w
+    display: Nature communications (2020)
+  highlight: 1
+  news2: 
+
+- title: "Quantitative proteomics reveals specific metabolic features of Acute Myeloid Leukemia stem cells"
+  image: dummy.png
+  description: Acute myeloid leukemia is characterized by the accumulation of clonal myeloid blast cells unable to differentiate into mature leukocytes. Chemotherapy induces remission in the majority of patients, but relapse rates are high and lead to poor clinical outcomes. Because this is primarily caused by chemotherapy-resistant leukemic stem cells (LSCs), it is essential to eradicate LSCs to improve patient survival. LSCs have predominantly been studied at the transcript level, thus information about posttranscriptionally regulated genes and associated networks is lacking. Here, we extend our previous report on LSC proteomes to healthy age-matched hematopoietic stem and progenitor cells (HSPCs) and correlate the proteomes to the corresponding transcriptomes. By comparing LSCs to leukemic blasts and healthy HSPCs, we validate candidate LSC markers and highlight novel and potentially targetable proteins that are absent or only lowly expressed in HSPCs. In addition, our data provide strong evidence that LSCs harbor a characteristic energy metabolism, adhesion molecule composition, as well as RNA-processing properties. Furthermore, correlating proteome and transcript data of the same individual samples highlights the strength of proteome analyses, which are particularly potent in detecting alterations in metabolic pathways. In summary, our study provides a comprehensive proteomic and transcriptomic characterization of functionally validated LSCs, blasts, and healthy HSPCs, representing a valuable resource helping to design LSC-directed therapies.
+  authors: Simon Raffel, Daniel Klimmeck, Mattia Falcone, Aykut Demir, Alireza Pouya, Petra Zeisberger, Christoph Lutz, Marco Tinelli, Oliver Bischel, Lars Bullinger, Christian Thiede, Anne Flörcken, Jörg Westermann, Gerhard Ehninger, Anthony D Ho, Carsten Müller-Tidow, Zuguang Gu, Carl Herrmann, Jeroen Krijgsveld, Andreas Trumpp, Jenny Hansson
+  link:
+    url: https://ashpublications.org/blood/article-abstract/136/13/1507/461031
+    display: Blood (2020)
+  highlight: 0
+  news2: 
+
+- title: "Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples"
+  image: dummy.png
+  description: The Cancer Genome Atlas (TCGA) and International Cancer Genome Consortium (ICGC) curated consensus somatic mutation calls using whole exome sequencing (WES) and whole genome sequencing (WGS), respectively. Here, as part of the ICGC/TCGA Pan-Cancer Analysis of Whole Genomes (PCAWG) Consortium, which aggregated whole genome sequencing data from 2,658 cancers across 38 tumour types, we compare WES and WGS side-by-side from 746 TCGA samples, finding that ~80% of mutations overlap in covered exonic regions. We estimate that low variant allele fraction (VAF < 15%) and clonal heterogeneity contribute up to 68% of private WGS mutations and 71% of private WES mutations. We observe that ~30% of private WGS mutations trace to mutations identified by a single variant caller in WES consensus efforts. WGS captures both ~50% more variation in exonic regions and un-observed mutations in loci with variable GC-content. Together, our analysis highlights technological divergences between two reproducible somatic variant detection efforts.
+  authors: Matthew H. Bailey, William U. Meyerson, Lewis Jonathan Dursi, Liang-Bo Wang, Guanlan Dong, Wen-Wei Liang, Amila Weerasinghe, Shantao Li, Yize Li, Sean Kelso, MC3 Working Group, PCAWG novel somatic mutation calling methods working group, Gordon Saksena, Kyle Ellrott, Michael C. Wendl, David A. Wheeler, Gad Getz, Jared T. Simpson, Mark B. Gerstein, Li Ding & PCAWG Consortium
+  link:
+    url: https://www.nature.com/articles/s41467-020-18151-y
+    display: Nature Communications (2020)
+  highlight: 0
+  news2: 
+
+- title: "Sex differences in oncogenic mutational processes"
+  image: dummy.png
+  description: Sex differences have been observed in multiple facets of cancer epidemiology, treatment and biology, and in most cancers outside the sex organs. Efforts to link these clinical differences to specific molecular features have focused on somatic mutations within the coding regions of the genome. Here we report a pan-cancer analysis of sex differences in whole genomes of 1983 tumours of 28 subtypes as part of the ICGC/TCGA Pan-Cancer Analysis of Whole Genomes (PCAWG) Consortium. We both confirm the results of exome studies, and also uncover previously undescribed sex differences. These include sex-biases in coding and non-coding cancer drivers, mutation prevalence and strikingly, in mutational signatures related to underlying mutational processes. These results underline the pervasiveness of molecular sex differences and strengthen the call for increased consideration of sex in molecular cancer research.
+  authors: Constance H. Li, Stephenie D. Prokopec, Ren X. Sun, Fouad Yousif, Nathaniel Schmitz, PCAWG Tumour Subtypes and Clinical Translation, Paul C. Boutros & PCAWG Consortium
+  link:
+    url: https://www.nature.com/articles/s41467-020-17359-2
+    display: Nature Communications (2020)
+  highlight: 0
+  news2: 
+
+- title: "Automated 3D light-sheet screening with high spatiotemporal resolution reveals mitotic phenotypes"
+  image: dummy.png
+  description: 3D cell cultures enable the in vitro study of dynamic biological processes such as the cell cycle, but their use in high-throughput screens remains impractical with conventional fluorescent microscopy. Here, we present a screening workflow for the automated evaluation of mitotic phenotypes in 3D cell cultures by light-sheet microscopy. After sample preparation by a liquid handling robot, cell spheroids are imaged for 24 h in toto with a dual-view inverted selective plane illumination microscope (diSPIM) with a much improved signal-to-noise ratio, higher imaging speed, isotropic resolution and reduced light exposure compared to a spinning disc confocal microscope. A dedicated high-content image processing pipeline implements convolutional neural network-based phenotype classification. We illustrate the potential of our approach using siRNA knockdown and epigenetic modification of 28 mitotic target genes …
+  authors: Björn Eismann, Teresa G Krieger, Jürgen Beneke, Ruben Bulkescher, Lukas Adam, Holger Erfle, Carl Herrmann, Roland Eils, Christian Conrad
+  link:
+    url: https://journals.biologists.com/jcs/article-abstract/133/11/jcs245043/224801
+    display: Journal of cell science (2020)
+  highlight: 0
+  news2: 
+
+- title: "Passenger mutations in more than 2,500 cancer genomes: overall molecular functional impact and consequences"
+  image: dummy.png
+  description: The dichotomous model of “drivers” and “passengers” in cancer posits that only a few mutations in a tumor strongly affect its progression, with the remaining ones being inconsequential. Here, we leveraged the comprehensive variant dataset from the ICGC/TCGA Pan-Cancer Analysis of Whole Genomes (PCAWG) project to demonstrate that—in addition to the dichotomy of high- and low-impact variants—there is a third group of medium-impact putative passengers. Moreover, we also found that molecular impact correlates with subclonal architecture (i.e., early versus late mutations), and different signatures encode for mutations with divergent impact. Furthermore, we adapted an additive-effects model from complex-trait studies to show that the aggregated effect of putative passengers, including undetected weak drivers, provides significant additional power (∼12% additive variance) for predicting cancerous …
+  authors: Sushant Kumar, Jonathan Warrell, Shantao Li, Patrick D McGillivray, William Meyerson, Leonidas Salichos, Arif Harmanci, Alexander Martinez-Fundichely, Calvin WY Chan, Morten Muhlig Nielsen, Lucas Lochovsky, Yan Zhang, Xiaotong Li, Shaoke Lou, Jakob Skou Pedersen, Carl Herrmann, Gad Getz, Ekta Khurana, Mark B Gerstein
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0092867420301136
+    display: Cell (2020)
+  highlight: 0
+  news2: 
+
+- title: "Combined burden and functional impact tests for cancer driver discovery using DriverPower"
+  image: dummy.png
+  description: The discovery of driver mutations is one of the key motivations for cancer genome sequencing. Here, as part of the ICGC/TCGA Pan-Cancer Analysis of Whole Genomes (PCAWG) Consortium, which aggregated whole genome sequencing data from 2658 cancers across 38 tumour types, we describe DriverPower, a software package that uses mutational burden and functional impact evidence to identify driver mutations in coding and non-coding sites within cancer whole genomes. Using a total of 1373 genomic features derived from public sources, DriverPower’s background mutation model explains up to 93% of the regional variance in the mutation rate across multiple tumour types. By incorporating functional impact scores, we are able to further increase the accuracy of driver discovery. Testing across a collection of 2583 cancer genomes from the PCAWG project, DriverPower identifies 217 coding and 95 non-coding driver candidates. Comparing to six published methods used by the PCAWG Drivers and Functional Interpretation Working Group, DriverPower has the highest F1 score for both coding and non-coding driver discovery. This demonstrates that DriverPower is an effective framework for computational driver discovery.
+  authors: Shimin Shuai, PCAWG Drivers and Functional Interpretation Working Group, Steven Gallinger, Lincoln Stein & PCAWG Consortium
+  link:
+    url: https://www.nature.com/articles/s41467-019-13929-1
+    display: Nature Communications (2021)
+  highlight: 0
+  news2: 
+
+- title: "Analyses of non-coding somatic drivers in 2,658 cancer whole genomes"
+  image: dummy.png
+  description: The discovery of drivers of cancer has traditionally focused on protein-coding genes 1, 2, 3, 4. Here we present analyses of driver point mutations and structural variants in non-coding regions across 2,658 genomes from the Pan-Cancer Analysis of Whole Genomes (PCAWG) Consortium 5 of the International Cancer Genome Consortium (ICGC) and The Cancer Genome Atlas (TCGA). For point mutations, we developed a statistically rigorous strategy for combining significance levels from multiple methods of driver discovery that overcomes the limitations of individual methods. For structural variants, we present two methods of driver discovery, and identify regions that are significantly affected by recurrent breakpoints and recurrent somatic juxtapositions. Our analyses confirm previously reported drivers 6, 7, raise doubts about others and identify novel candidates, including point mutations in the 5′ region of TP53 …
+  authors: Esther Rheinbay, Morten Muhlig Nielsen,[…] PCAWG Consortium
+  link:
+    url: https://www.nature.com/articles/s41586-020-1965-x
+    display: Nature (2020)
+  highlight: 0
+  news2: 
+
+- title: "Pan-cancer analysis of whole genomes"
+  image: dummy.png
+  description: Cancer is driven by genetic change, and the advent of massively parallel sequencing has enabled systematic documentation of this variation at the whole-genome scale 1–3. Here we report the integrative analysis of 2,658 whole-cancer genomes and their matching normal tissues across 38 tumour types from the Pan-Cancer Analysis of Whole Genomes (PCAWG) Consortium of the International Cancer Genome Consortium (ICGC) and The Cancer Genome Atlas (TCGA). We describe the generation of the PCAWG resource, facilitated by international data sharing using compute clouds. On average, cancer genomes contained 4–5 driver mutations when combining coding and non-coding genomic elements; however, in around 5% of cases no drivers were identified, suggesting that cancer driver discovery is not yet complete. Chromothripsis, in which many clustered structural variants arise in a single catastrophic …
+  authors: The ICGC/TCGA Pan-Cancer Analysis of Whole Genomes Consortium 
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7025898/
+    display: Nature (2020)
+  highlight: 0
+  news2: 
+
+- title: "ShinyButchR: Interactive NMF-based decomposition workflow of genome-scale datasets"
+  image: 2020_Quintero.png
+  description: Non-negative matrix factorization (NMF) has been widely used for the analysis of genomic data to perform feature extraction and signature identification due to the interpretability of the decomposed signatures. However, running a basic NMF analysis requires the installation of multiple tools and dependencies, along with a steep learning curve and computing time. To mitigate such obstacles, we developed ShinyButchR, a novel R/Shiny application that provides a complete NMF-based analysis workflow, allowing the user to perform matrix decomposition using NMF, feature extraction, interactive visualization, relevant signature identification, and association to biological and clinical variables. ShinyButchR builds upon the also novel R package ButchR, which provides new TensorFlow solvers for algorithms of the NMF family, functions for downstream analysis, a rational method to determine the optimal factorization rank and a novel feature selection strategy.
+  authors: Andres Quintero, Daniel Hübschmann, Nils Kurzawa, Sebastian Steinhauser, Philipp Rentzsch, Stephen Krämer, Carolin Andresen, Jeongbin Park, Roland Eils, Matthias Schlesner, Carl Herrmann
+  link:
+    url: https://academic.oup.com/biomethods/article/5/1/bpaa022/5942966
+    display: Biology Methods and Protocols (2020)
+  highlight: 1
+  news2: 
+
+- title: "Single-nucleus chromatin accessibility reveals intratumoral epigenetic heterogeneity in IDH1 mutant gliomas"
+  image: dummy.png
+  description: The presence of genome-wide DNA hypermethylation is a hallmark of lower grade gliomas (LGG) with isocitrate dehydrogenase (IDH) mutations. Further molecular classification of IDH mutant gliomas is defined by the presence (IDHmut-codel) or absence (IDHmut-noncodel) of hemizygous codeletion of chromosome arms 1p and 19q. Despite the DNA hypermethylation seen in bulk tumors, intra-tumoral heterogeneity at the epigenetic level has not been thoroughly analyzed. To address this question, we performed the first epigenetic profiling of single cells in a cohort of 5 gliomas with IDH1 mutation using single nucleus Assay for Transposase-Accessible Chromatin with high-throughput sequencing (snATAC-seq). Using the Fluidigm HT IFC microfluidics platform, we generated chromatin accessibility maps from 336 individual nuclei, and identified variable promoter accessibility of non-coding RNAs in LGGs. Interestingly, local chromatin structures of several non-coding RNAs are significant factors that contribute to heterogeneity, and show increased promoter accessibility in IDHmut-noncodel samples. As an example for clinical significance of this result, we identify CYTOR as a poor prognosis factor in gliomas with IDH mutation. Open chromatin assay points to differential accessibility of non-coding RNAs as an important source of epigenetic heterogeneity within individual tumors and between molecular subgroups. Rare populations of nuclei that resemble either IDH mutant molecular group co-exist within IDHmut-noncodel and IDHmut-codel groups, and along with non-coding RNAs may be an important issue to consider for future studies, as they …
+  authors: Ruslan Al-Ali, Katharina Bauer, Jong-Whi Park, Ruba Al Abdulla, Valentina Fermi, Andreas von Deimling, Christel Herold-Mende, Jan-Philipp Mallm, Carl Herrmann, Wolfgang Wick, Şevin Turcan
+  link:
+    url: https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-019-0851-y
+    display: Acta neuropathologica communications (2019)
+  highlight: 0
+  news2: 
+
+- title: "Impact of cancer mutational signatures on transcription factor motifs in the human genome"
+  image: dummy.png
+  description: Somatic mutations in cancer genomes occur through a variety of molecular mechanisms, which contribute to different mutational patterns. To summarize these, mutational signatures have been defined using a large number of cancer genomes, and related to distinct mutagenic processes. Each cancer genome can be compared to this reference dataset and its exposure to one or the other signature be determined. Given the very different mutational patterns of these signatures, we anticipate that they will have distinct impact on genomic elements, in particular motifs for transcription factor binding sites (TFBS). We used the 30 mutational signatures from the COSMIC database, and derived a theoretical framework to infer the impact of these signatures on the alteration of transcription factor (TF) binding motifs from the JASPAR database. Hence, we translated the trinucleotide mutation frequencies of the signatures into …
+  authors: Calvin Wing Yiu Chan, Zuguang Gu, Matthias Bieg, Roland Eils, Carl Herrmann
+  link:
+    url: https://link.springer.com/article/10.1186/s12920-019-0525-4
+    display: BMC medical genomics (2019)
+  highlight: 0
+  news2: 
+
+- title: "Deconvolution of single-cell multi-omics layers reveals regulatory heterogeneity"
+  image: 2019_Liu.png
+  description: Integrative analysis of multi-omics layers at single cell level is critical for accurate dissection of cell-to-cell variation within certain cell populations. Here we report scCAT-seq, a technique for simultaneously assaying chromatin accessibility and the transcriptome within the same single cell. We show that the combined single cell signatures enable accurate construction of regulatory relationships between cis-regulatory elements and the target genes at single-cell resolution, providing a new dimension of features that helps direct discovery of regulatory patterns specific to distinct cell identities. Moreover, we generate the first single cell integrated map of chromatin accessibility and transcriptome in early embryos and demonstrate the robustness of scCAT-seq in the precise dissection of master transcription factors in cells of distinct states. The ability to obtain these two layers of omics data will help provide more accurate definitions of “single cell state” and enable the deconvolution of regulatory heterogeneity from complex cell populations.
+  authors: Longqi Liu, Chuanyu Liu, Andrés Quintero, Liang Wu, Yue Yuan, Mingyue Wang, Mengnan Cheng, Lizhi Leng, Liqin Xu, Guoyi Dong, Rui Li, Yang Liu, Xiaoyu Wei, Jiangshan Xu, Xiaowei Chen, Haorong Lu, Dongsheng Chen, Quanlei Wang, Qing Zhou, Xinxin Lin, Guibo Li, Shiping Liu, Qi Wang, Hongru Wang, J Lynn Fink, Zhengliang Gao, Xin Liu, Yong Hou, Shida Zhu, Huanming Yang, Yunming Ye, Ge Lin, Fang Chen, Carl Herrmann, Roland Eils, Zhouchun Shang, Xun Xu
+  link:
+    url: https://www.nature.com/articles/s41467-018-08205-7
+    display: Nature communications (2019)
+  highlight: 1
+  news2: 
+
+- title: "Identification of embryonic neural plate border stem cells and their generation by direct reprogramming from adult human blood cells"
+  image: dummy.png
+  description: We report the direct reprogramming of both adult human fibroblasts and blood cells into induced neural plate border stem cells (iNBSCs) by ectopic expression of four neural transcription factors. Self-renewing, clonal iNBSCs can be robustly expanded in defined media while retaining multilineage differentiation potential. They generate functional cell types of neural crest and CNS lineages and could be used to model a human pain syndrome via gene editing of SCN9A in iNBSCs. NBSCs can also be derived from human pluripotent stem cells and share functional and molecular features with NBSCs isolated from embryonic day 8.5 (E8.5) mouse neural folds. Single-cell RNA sequencing identified the anterior hindbrain as the origin of mouse NBSCs, with human iNBSCs sharing a similar regional identity. In summary, we identify embryonic NBSCs and report their generation by direct reprogramming in human, which …
+  authors: Marc Christian Thier, Oliver Hommerding, Jasper Panten, Roberta Pinna, Diego García-González, Thomas Berger, Philipp Wörsdörfer, Yassen Assenov, Roberta Scognamiglio, Adriana Przybylla, Paul Kaschutnig, Lisa Becker, Michael D Milsom, Anna Jauch, Jochen Utikal, Carl Herrmann, Hannah Monyer, Frank Edenhofer, Andreas Trumpp
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1934590918305514
+    display: Cell stem cell (2019)
+  highlight: 0
+  news2: 
+
+- title: "Induced aneuploidy disrupts MCF10A acini formation and CCND1 expression"
+  image: dummy.png
+  description: Abnormal karyotypes, namely aneuploidy, can be detected in nearly all cancer entities at different grades. The impact of these altering mutations on epigenetic regulation, especially on promoter-enhancer interactions are not well understood. Here, we applied a 3D model of MCF10A cells in a high-content screen to measure induced aneuploidy by RNA interference of 82 mitotic genes associated with aneuploidy and breast cancer. Perturbation of ESPL1 and TOP2A expression led to increased mitotic instability and subsequent aneuploidy and polylobed nuclei. During acinus formation these polylobed cells disrupted proper acinus rotation inhibiting the development of a hollow lumen and a polarized outer cell layer. Further, gene expression profiling identified upregulated CCND1 among other breast cancer related genes. We show that acquisition of aneuploidy affects the morphogenesis of MCF10A acini and expression of cancer relevant genes. By conducting 4C chromosome capturing experiments we linked the alteration of interactions of the promoter region to CCND1 upregulation.
+  authors: Marcel Waschow, Qi Wang, Paul Saary, Corinna Klein, Sabine Aschenbrenner, Katharina Jechow, Lorenz Maier, Stephan Tirier, Brigitte Schoell, Ilse Chudoba, Christian Dietz, Daniel Dreidax, Anna Jauch, Martin Sprick, Carl Herrmann, Roland Eils, Christian Conrad
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2019.12.15.876763v1.abstract
+    display: bioRxiv (2019)
+  highlight: 0
+  news2: 
+
+- title: "TBX2 is a neuroblastoma core regulatory circuitry component enhancing MYCN/FOXM1 reactivation of DREAM targets"
+  image: dummy.png
+  description: Chromosome 17q gains are almost invariably present in high-risk neuroblastoma cases. Here, we perform an integrative epigenomics search for dosage-sensitive transcription factors on 17q marked by H3K27ac defined super-enhancers and identify TBX2 as top candidate gene. We show that TBX2 is a constituent of the recently established core regulatory circuitry in neuroblastoma with features of a cell identity transcription factor, driving proliferation through activation of p21-DREAM repressed FOXM1 target genes. Combined MYCN/TBX2 knockdown enforces cell growth arrest suggesting that TBX2 enhances MYCN sustained activation of FOXM1 targets. Targeting transcriptional addiction by combined CDK7 and BET bromodomain inhibition shows synergistic effects on cell viability with strong repressive effects on CRC gene expression and p53 pathway response as well as several genes implicated in …
+  authors: Bieke Decaesteker, Geertrui Denecker, Christophe Van Neste, Emmy M Dolman, Wouter Van Loocke, Moritz Gartlgruber, Carolina Nunes, Fanny De Vloed, Pauline Depuydt, Karen Verboom, Dries Rombaut, Siebe Loontiens, Jolien De Wyn, Waleed M Kholosy, Bianca Koopmans, Anke HW Essing, Carl Herrmann, Daniel Dreidax, Kaat Durinck, Dieter Deforce, Filip Van Nieuwerburgh, Anton Henssen, Rogier Versteeg, Valentina Boeva, Gudrun Schleiermacher, Johan van Nes, Pieter Mestdagh, Suzanne Vanhauwaert, Johannes H Schulte, Frank Westermann, Jan J Molenaar, Katleen De Preter, Frank Speleman
+  link:
+    url: https://www.nature.com/articles/s41467-018-06699-9
+    display: Nature communications (2018)
+  highlight: 0
+  news2: 
+
+- title: "Development of early childhood asthma goes along with massive enhancer activation in blood cells"
+  image: dummy.png
+  description: 
+  authors: S Trump, M Kloes, M Schmidt, T Bauer, N Ishaque, L Thurmann, M Bieg, C Herrmann, S Roeder, M Bauer, D Weichenhan, O Muecke, C Plass, M Borte, E Von Mutius, M Kabesch, G Stangl, R Lauener, J Pekkanen, J Dalphin, J Riedler, R Eils, I Lehmann
+  link:
+    url: https://pred.uni-regensburg.de/id/eprint/14136/
+    display: ALLERGY (2018)
+  highlight: 0
+  news2: 
+
+- title: "BCAT1 restricts αKG levels in AML stem cells leading to IDHmut-like DNA hypermethylation"
+  image: dummy.png
+  description: The branched-chain amino acid (BCAA) pathway and high levels of BCAA transaminase 1 (BCAT1) have recently been associated with aggressiveness in several cancer entities 1, 2, 3, 4, 5, 6. However, the mechanistic role of BCAT1 in this process remains largely uncertain. Here, by performing high-resolution proteomic analysis of human acute myeloid leukaemia (AML) stem-cell and non-stem-cell populations, we find the BCAA pathway enriched and BCAT1 protein and transcripts overexpressed in leukaemia stem cells. We show that BCAT1, which transfers α-amino groups from BCAAs to α-ketoglutarate (αKG), is a critical regulator of intracellular αKG homeostasis. Further to its role in the tricarboxylic acid cycle, αKG is an essential cofactor for αKG-dependent dioxygenases such as Egl-9 family hypoxia inducible factor 1 (EGLN1) and the ten-eleven translocation (TET) family of DNA demethylases 7, 8, 9, 10 …
+  authors: Simon Raffel, Mattia Falcone, Niclas Kneisel, Jenny Hansson, Wei Wang, Christoph Lutz, Lars Bullinger, Gernot Poschet, Yannic Nonnenmacher, Andrea Barnert, Carsten Bahr, Petra Zeisberger, Adriana Przybylla, Markus Sohn, Martje Tönjes, Ayelet Erez, Lital Adler, Patrizia Jensen, Claudia Scholl, Stefan Fröhling, Sibylle Cocciardi, Patrick Wuchter, Christian Thiede, Anne Flörcken, Jörg Westermann, Gerhard Ehninger, Peter Lichter, Karsten Hiller, Rüdiger Hell, Carl Herrmann, Anthony D Ho, Jeroen Krijgsveld, Bernhard Radlwimmer, Andreas Trumpp
+  link:
+    url: https://www.nature.com/articles/nature24294
+    display: Nature (2017)
+  highlight: 0
+  news2: 
+
+- title: "Genome-wide DNA-methylation landscape defines specialization of regulatory T cells in tissues"
+  image: dummy.png
+  description: Regulatory T cells (T reg cells) perform two distinct functions, they maintain self-tolerance, and they support organ homeostasis by differentiating into specialized tissue T reg cells. We found that epigenetic modifications defined the molecular characteristics of tissue T reg cells. Tagmentation-based whole-genome bisulfite sequencing revealed more than 11,000 regions that were methylated differentially in pairwise comparisons of tissue T reg cell populations and lymphoid T cells. Similarities in the epigenetic landscape led to the identification of a common tissue T reg cell population that was present in many organs and was characterized by gain and loss of DNA methylation that included many gene sites associated with the T H 2 subset of helper T cells, such as the gene encoding cytokine IL-33 receptor ST2, as well as the production of tissue-regenerative factors. Furthermore, the ST2-expressing population was …
+  authors: Michael Delacher, Charles D Imbusch, Dieter Weichenhan, Achim Breiling, Agnes Hotz-Wagenblatt, Ulrike Traeger, Ann-Cathrin Hofer, Danny Kägebein, Qi Wang, Felix Frauhammer, Jan-Philipp Mallm, Katharina Bauer, Carl Herrmann, Philipp A Lang, Benedikt Brors, Christoph Plass, Markus Feuerer
+  link:
+    url: https://www.nature.com/articles/ni.3799
+    display: Nature immunology (2017)
+  highlight: 0
+  news2: 
+
+- title: "Identifying personal DNA methylation profiles by genotype inference"
+  image: dummy.png
+  description: Since the first whole-genome sequencing, the biomedical research community has made significant steps towards a more precise, predictive and personalized medicine. Genomic data is nowadays widely considered privacy-sensitive and consequently protected by strict regulations and released only after careful consideration. Various additional types of biomedical data, however, are not shielded by any dedicated legal means and consequently disseminated much less thoughtfully. This in particular holds true for DNA methylation data as one of the most important and well-understood epigenetic element influencing human health. In this paper, we show that, in contrast to the aforementioned belief, releasing one's DNA methylation data causes privacy issues akin to releasing one's actual genome. We show that already a small subset of methylation regions influenced by genomic variants are sufficient to infer parts …
+  authors: Michael Backes, Pascal Berrang, Matthias Bieg, Roland Eils, Carl Herrmann, Mathias Humbert, Irina Lehmann
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/7958619/
+    display: 2017 IEEE Symposium on Security and Privacy (SP) (2017)
+  highlight: 0
+  news2: 
+
+- title: "Deciphering programs of transcriptional regulation by combined deconvolution of multiple omics layers"
+  image: dummy.png
+  description: Metazoans are crucially dependent on multiple layers of gene regulatory mechanisms which allow them to control gene expression across developmental stages, tissues and cell types. Multiple recent research consortia have aimed to generate comprehensive datasets to profile the activity of these cell type- and condition-specific regulatory landscapes across many different cell lines and primary cells. However, extraction of genes or regulatory elements specific to certain entities from these datasets remains challenging. We here propose a novel method based on non-negative matrix factorization for disentangling and associating huge multi-assay datasets including chromatin accessibility and gene expression data. Taking advantage of implementations of NMF algorithms in the GPU CUDA environment full datasets composed of tens of thousands of genes as well as hundreds of samples can be processed without the need for prior feature selection to reduce the input size. Applying this framework to multiple layers of genomic data derived from human blood cells we unravel mechanisms of regulation of cell type-specific expression in T-cells and monocytes.
+  authors: Daniel Hüebschmann, Nils Kurzawa, Sebastian Steinhauser, Philipp Rentzsch, Stephen Krämer, Carolin Andresen, Jeongbin Park, Roland Eils, Matthias Schlesner, Carl Herrmann
+  link:
+    url: https://www.biorxiv.org/content/10.1101/199547v1.abstract
+    display: bioRxiv (2017)
+  highlight: 0
+  news2: 
+
+- title: "A comprehensive comparison of tools for differential ChIP-seq analysis"
+  image: dummy.png
+  description: ChIP-seq has become a widely adopted genomic assay in recent years to determine binding sites for transcription factors or enrichments for specific histone modifications. Beside detection of enriched or bound regions, an important question is to determine differences between conditions. While this is a common analysis for gene expression, for which a large number of computational approaches have been validated, the same question for ChIP-seq is particularly challenging owing to the complexity of ChIP-seq data in terms of noisiness and variability. Many different tools have been developed and published in recent years. However, a comprehensive comparison and review of these tools is still missing. Here, we have reviewed 14 tools, which have been developed to determine differential enrichment between two conditions. They differ in their algorithmic setups, and also in the range of applicability. Hence …
+  authors: Sebastian Steinhauser, Nils Kurzawa, Roland Eils, Carl Herrmann
+  link:
+    url: https://academic.oup.com/bib/article-abstract/17/6/953/2453197
+    display: Briefings in bioinformatics (2016)
+  highlight: 0
+  news2: 
+
+- title: "Integrative genome-scale analysis identifies epigenetic mechanisms of transcriptional deregulation in unfavorable neuroblastomas"
+  image: dummy.png
+  description: The broad clinical spectrum of neuroblastoma ranges from spontaneous regression to rapid progression despite intensive multimodal therapy. This diversity is not fully explained by known genetic aberrations, suggesting the possibility of epigenetic involvement in pathogenesis. In pursuit of this hypothesis, we took an integrative approach to analyze the methylomes, transcriptomes, and copy number variations in 105 cases of neuroblastoma, complemented by primary tumor- and cell line–derived global histone modification analyses and epigenetic drug treatment in vitro. We found that DNA methylation patterns identify divergent patient subgroups with respect to survival and clinicobiologic variables, including amplified MYCN. Transcriptome integration and histone modification–based definition of enhancer elements revealed intragenic enhancer methylation as a mechanism for high-risk–associated transcriptional …
+  authors: Kai-Oliver Henrich, Sebastian Bender, Maral Saadati, Daniel Dreidax, Moritz Gartlgruber, Chunxuan Shao, Carl Herrmann, Manuel Wiesenfarth, Martha Parzonka, Lea Wehrmann, Matthias Fischer, David J Duffy, Emma Bell, Alica Torkov, Peter Schmezer, Christoph Plass, Thomas Höfer, Axel Benner, Stefan M Pfister, Frank Westermann
+  link:
+    url: https://cancerres.aacrjournals.org/content/76/18/5523.short
+    display: Cancer research (2016)
+  highlight: 0
+  news2: 
+
+- title: "Prenatal maternal stress and wheeze in children: novel insights into epigenetic regulation"
+  image: dummy.png
+  description: Psychological stress during pregnancy increases the risk of childhood wheeze and asthma. However, the transmitting mechanisms remain largely unknown. Since epigenetic alterations have emerged as a link between perturbations in the prenatal environment and an increased disease risk we used whole genome bisulfite sequencing (WGBS) to analyze changes in DNA methylation in mothers and their children related to prenatal psychosocial stress and assessed its role in the development of wheeze in the child. We evaluated genomic regions altered in their methylation level due to maternal stress based of WGBS data of 10 mother-child-pairs. These data were complemented by longitudinal targeted methylation and transcriptional analyses in children from our prospective mother-child cohort LINA for whom maternal stress and wheezing information was available (n = 443). High maternal stress was associated with an increased risk for persistent wheezing in the child until the age of 5. Both mothers and children showed genome-wide alterations in DNA-methylation specifically in enhancer elements. Deregulated neuroendocrine and neurotransmitter receptor interactions were observed in stressed mothers and their children. In children but not in mothers, calcium- and Wnt-signaling required for lung maturation in the prenatal period were epigenetically deregulated and could be linked with wheezing later in children’s life.
+  authors: Saskia Trump, Matthias Bieg, Zuguang Gu, Loreen Thürmann, Tobias Bauer, Mario Bauer, Naveed Ishaque, Stefan Röder, Lei Gu, Gunda Herberth, Christian Lawerenz, Michael Borte, Matthias Schlesner, Christoph Plass, Nicolle Diessl, Markus Eszlinger, Oliver Mücke, Horst-Dietrich Elvers, Dirk K Wissenbach, Martin Von Bergen, Carl Herrmann, Dieter Weichenhan, Rosalind J Wright, Irina Lehmann, Roland Eils
+  link:
+    url: https://www.nature.com/articles/srep28616
+    display: Scientific reports (2016)
+  highlight: 0
+  news2: 
+
+- title: "LedPred: an R/bioconductor package to predict regulatory sequences using support vector machines"
+  image: dummy.png
+  description: Supervised classification based on support vector machines (SVMs) has successfully been used for the prediction of cis-regulatory modules (CRMs). However, no integrated tool using such heterogeneous data as position-specific scoring matrices, ChIP-seq data or conservation scores is currently available. Here, we present LedPred, a flexible SVM workflow that predicts new regulatory sequences based on the annotation of known CRMs, which are associated to a large variety of feature types. LedPred is provided as an R/Bioconductor package connected to an online server to avoid installation of non-R software. Due to the heterogeneous CRM feature integration, LedPred excels at the prediction of regulatory sequences in Drosophila and mouse datasets compared with similar SVM-based software.
+  authors: Denis Seyres, Elodie Darbo, Laurent Perrin, Carl Herrmann, Aitor González
+  link:
+    url: https://academic.oup.com/bioinformatics/article-abstract/32/7/1091/1744134
+    display: Bioinformatics (2016)
+  highlight: 0
+  news2: 
+
+- title: "Atypical teratoid/rhabdoid tumors are comprised of three epigenetic subgroups with distinct enhancer landscapes"
+  image: dummy.png
+  description: Atypical teratoid/rhabdoid tumor (ATRT) is one of the most common brain tumors in infants. Although the prognosis of ATRT patients is poor, some patients respond favorably to current treatments, suggesting molecular inter-tumor heterogeneity. To investigate this further, we genetically and epigenetically analyzed 192 ATRTs. Three distinct molecular subgroups of ATRTs, associated with differences in demographics, tumor location, and type of SMARCB1 alterations, were identified. Whole-genome DNA and RNA sequencing found no recurrent mutations in addition to SMARCB1 that would explain the differences between subgroups. Whole-genome bisulfite sequencing and H3K27Ac chromatin-immunoprecipitation sequencing of primary tumors, however, revealed clear differences, leading to the identification of subgroup-specific regulatory networks and potential therapeutic targets.
+  authors: Pascal D Johann, Serap Erkek, Marc Zapatka, Kornelius Kerl, Ivo Buchhalter, Volker Hovestadt, David TW Jones, Dominik Sturm, Carl Hermann, Maia Segura Wang, Andrey Korshunov, Marina Rhyzova, Susanne Gröbner, Sebastian Brabetz, Lukas Chavez, Susanne Bens, Stefan Gröschel, Fabian Kratochwil, Andrea Wittmann, Laura Sieber, Christina Geörg, Stefan Wolf, Katja Beck, Florian Oyen, David Capper, Peter van Sluis, Richard Volckmann, Jan Koster, Rogier Versteeg, Andreas von Deimling, Till Milde, Olaf Witt, Andreas E Kulozik, Martin Ebinger, Tarek Shalaby, Michael Grotzer, David Sumerauer, Josef Zamecnik, Jaume Mora, Nada Jabado, Michael D Taylor, Annie Huang, Eleonora Aronica, Anna Bertoni, Bernhard Radlwimmer, Torsten Pietsch, Ulrich Schüller, Reinhard Schneppenheim, Paul A Northcott, Jan O Korbel, Reiner Siebert, Michael C Frühwald, Peter Lichter, Roland Eils, Amar Gajjar, Martin Hasselblatt, Stefan M Pfister, Marcel Kool
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1535610816300356
+    display: Cancer cell (2016)
+  highlight: 0
+  news2: 
+
+- title: "Environment‐induced epigenetic reprogramming in genomic regulatory elements in smoking mothers and their children"
+  image: dummy.png
+  description: Epigenetic mechanisms have emerged as links between prenatal environmental exposure and disease risk later in life. Here, we studied epigenetic changes associated with maternal smoking at base pair resolution by mapping DNA methylation, histone modifications, and transcription in expectant mothers and their newborn children. We found extensive global differential methylation and carefully evaluated these changes to separate environment associated from genotype-related DNA methylation changes. Differential methylation is enriched in enhancer elements and targets in particular "commuting" enhancers having multiple, regulatory interactions with distal genes. Longitudinal whole-genome bisulfite sequencing revealed that DNA methylation changes associated with maternal smoking persist over years of life. Particularly in children prenatal environmental exposure leads to chromatin transitions into a hyperactive state. Combined DNA methylation, histone modification, and gene expression analyses indicate that differential methylation in enhancer regions is more often functionally translated than methylation changes in promoters or non-regulatory elements. Finally, we show that epigenetic deregulation of a commuting enhancer targeting c-Jun N-terminal kinase 2 (JNK2) is linked to impaired lung function in early childhood.
+  authors: Tobias Bauer, Saskia Trump, Naveed Ishaque, Loreen Thürmann, Lei Gu, Mario Bauer, Matthias Bieg, Zuguang Gu, Dieter Weichenhan, Jan‐Philipp Mallm, Stefan Röder, Gunda Herberth, Eiko Takada, Oliver Mücke, Marcus Winter, Kristin M Junge, Konrad Grützmann, Ulrike Rolle‐Kampczyk, Qi Wang, Christian Lawerenz, Michael Borte, Tobias Polte, Matthias Schlesner, Michaela Schanne, Stefan Wiemann, Christina Geörg, Hendrik G Stunnenberg, Christoph Plass, Karsten Rippe, Junichiro Mizuguchi, Carl Herrmann, Roland Eils, Irina Lehmann
+  link:
+    url: https://www.embopress.org/doi/abs/10.15252/msb.20156520
+    display: Molecular Systems Biology (2016)
+  highlight: 0
+  news2: 
+
+- title: "Increased vitamin D levels at birth and in early infancy increase offspring allergy risk--evidence for involvement of epigenetic mechanisms"
+  image: dummy.png
+  description: Both allergy-preventing and allergy-promoting effects have been reported.[...] a deeper mechanistic understanding of how vitamin D is related to the regulation of immune reactivity and allergic inflammation is required.[...] only 26% of the genes identified as regulated by vitamin D have a vitamin D response element in proximity to their transcription start site (TSS), 1 indicating that additional mechanisms are involved in the transcriptional control by vitamin D. As an additional mechanism, epigenetically mediated transcriptional deregulation through vitamin D-induced changes in DNA methylation was suggested. 2 Here, we studied DNA-methylation pattern on a genomewide scale at base-pair resolution in healthy newborn children with high and low vitamin D levels to elucidate the role of vitamin D in epigenetic programming of an allergy-protective or allergy-promoting immune reactivity.
+  authors: Kristin M Junge, Tobias Bauer, Stefanie Geissler, Frank Hirche, Loreen Thürmann, Mario Bauer, Saskia Trump, Matthias Bieg, Dieter Weichenhan, Lei Gu, Jan-Philipp Mallm, Naveed Ishaque, Oliver Mücke, Stefan Röder, Gunda Herberth, Ulrike Diez, Michael Borte, Karsten Rippe, Christoph Plass, Carl Hermann, Gabriele I Stangl, Roland Eils, Irina Lehmann
+  link:
+    url: https://www.proquest.com/openview/06550b9a4c025740336d06c16b7c6096/1?pq-origsite=gscholar&cbl=105664
+    display: Journal of Allergy and Clinical Immunology (2016)
+  highlight: 0
+  news2: 
+
+- title: "Evolutionary conserved gene co-expression drives generation of self-antigen diversity in medullary thymic epithelial cells"
+  image: dummy.png
+  description: Promiscuous expression of a plethora of tissue-restricted antigens (TRAs) in medullary thymic epithelial cells (mTECs) is essential for central tolerance. This promiscuous gene expression (pGE) is characterized by inclusion of a broad range of TRAs and by its mosaic expression patterns, i.e. each antigen is only expressed in 1–3% of mTECs. It is currently unclear to which extent random and/or deterministic mechanisms are involved in the regulation of pGE. In order to address this issue, we deconstructed the transcriptional heterogeneity in mTEC to minor subsets expressing a particular TRA. We identified six delineable co-expression groups in mouse mTECs. These co-expression groups displayed a variable degree of mutual overlap and mapped to different stages of mTEC development. Co-expressed genes showed chromosomal preference and clustered within delimited genomic regions. Moreover, co-expression groups in mice and humans selected by a pair of orthologous genes preferentially co-expressed sets of orthologous genes attesting to the species conservation of pGE between mouse and human. Furthermore, co-expressed genes were enriched for specific transcription factor binding motifs concomitant with up-regulation of the corresponding transcription factors, implicating additional factors in the regulation of pGE besides the Autoimmune Regulator (Aire). Thus promiscuous transcription of self-antigens in mTECs entails a highly coordinated process, which is evolutionary strictly conserved between species.
+  authors: Kristin Rattay, Hannah Verena Meyer, Carl Herrmann, Benedikt Brors, Bruno Kyewski
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0896841115300469
+    display: Journal of autoimmunity (2016)
+  highlight: 0
+  news2: 
+
+- title: "Telomerase activation by genomic rearrangements in high-risk neuroblastoma"
+  image: dummy.png
+  description: Neuroblastoma is a malignant paediatric tumour of the sympathetic nervous system1. Roughly half of these tumours regress spontaneously or are cured by limited therapy. By contrast, high-risk neuroblastomas have an unfavourable clinical course despite intensive multimodal treatment, and their molecular basis has remained largely elusive2,3,4. Here we have performed whole-genome sequencing of 56 neuroblastomas (high-risk, n = 39; low-risk, n = 17) and discovered recurrent genomic rearrangements affecting a chromosomal region at 5p15.33 proximal of the telomerase reverse transcriptase gene (TERT). These rearrangements occurred only in high-risk neuroblastomas (12/39, 31%) in a mutually exclusive fashion with MYCN amplifications and ATRX mutations, which are known genetic events in this tumour type1,2,5. In an extended case series (n = 217), TERT rearrangements defined a subgroup of high-risk tumours with particularly poor outcome. Despite a large structural diversity of these rearrangements, they all induced massive transcriptional upregulation of TERT. In the remaining high-risk tumours, TERT expression was also elevated in MYCN-amplified tumours, whereas alternative lengthening of telomeres was present in neuroblastomas without TERT or MYCN alterations, suggesting that telomere lengthening represents a central mechanism defining this subtype. The 5p15.33 rearrangements juxtapose the TERT coding sequence to strong enhancer elements, resulting in massive chromatin remodelling and DNA methylation of the affected region. Supporting a functional role of TERT, neuroblastoma cell lines bearing rearrangements or amplified MYCN exhibited both upregulated TERT expression and enzymatic telomerase activity. In summary, our findings show that remodelling of the genomic context abrogates transcriptional silencing of TERT in high-risk neuroblastoma and places telomerase activation in the centre of transformation in a large fraction of these tumours.
+  authors: Martin Peifer, Falk Hertwig, Frederik Roels, Daniel Dreidax, Moritz Gartlgruber, Roopika Menon, Andrea Krämer, Justin L Roncaioli, Frederik Sand, Johannes M Heuckmann, Fakhera Ikram, Rene Schmidt, Sandra Ackermann, Anne Engesser, Yvonne Kahlert, Wenzel Vogel, Janine Altmüller, Peter Nürnberg, Jean Thierry-Mieg, Danielle Thierry-Mieg, Aruljothi Mariappan, Stefanie Heynck, Erika Mariotti, Kai-Oliver Henrich, Christian Gloeckner, Graziella Bosco, Ivo Leuschner, Michal R Schweiger, Larissa Savelyeva, Simon C Watkins, Chunxuan Shao, Emma Bell, Thomas Höfer, Viktor Achter, Ulrich Lang, Jessica Theissen, Ruth Volland, Maral Saadati, Angelika Eggert, Bram De Wilde, Frank Berthold, Zhiyu Peng, Chen Zhao, Leming Shi, Monika Ortmann, Reinhard Büttner, Sven Perner, Barbara Hero, Alexander Schramm, Johannes H Schulte, Carl Herrmann, Roderick J O’Sullivan, Frank Westermann, Roman K Thomas, Matthias Fischer
+  link:
+    url: https://www.nature.com/articles/nature14980
+    display: Nature (2015)
+  highlight: 0
+  news2: 
+
+- title: "MYCN-driven regulatory mechanisms controlling LIN28B in neuroblastoma"
+  image: dummy.png
+  description: We show that MYCN regulates LIN28B expression in neuroblastoma tumors via two distinct parallel mechanisms. First, through an unbiased LIN28B-3′UTR reporter screen, we found that miR-26a-5p and miR-26b-5p regulate LIN28B expression. Next, we demonstrated that MYCN indirectly affects the expression of miR-26a-5p, and hence regulates LIN28B, therefore establishing an MYCN-miR-26a-5p-LIN28B regulatory axis. Second, we provide evidence that MYCN regulates LIN28B expression via interaction with the LIN28B promoter, establishing a direct MYCN-LIN28B regulatory axis. We believe that these findings mark LIN28B as an important effector of the MYCN oncogenic phenotype and underline the importance of MYCN-regulated miRNAs in establishing the MYCN-driven oncogenic process..
+  authors: Anneleen Beckers, Gert Van Peer, Daniel R Carter, Moritz Gartlgruber, Carl Herrmann, Saurabh Agarwal, Hetty H Helsmoortel, Kristina Althoff, Jan J Molenaar, Belamy B Cheung, Johannes H Schulte, Yves Benoit, Jason M Shohet, Frank Westermann, Glenn M Marshall, Jo Vandesompele, Katleen De Preter, Frank Speleman
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0304383515004085
+    display: Cancer letters (2015)
+  highlight: 0
+  news2: 
+
+- title: "MapMyFlu: visualizing spatio-temporal relationships between related influenza sequences"
+  image: dummy.png
+  description: Understanding the molecular dynamics of viral spreading is crucial for anticipating the epidemiological implications of disease outbreaks. In the case of influenza, reassortments or point mutations affect the adaption to new hosts or resistance to anti-viral drugs and can determine whether a new strain will result in a pandemic infection or a less severe progression. To this end, tools integrating molecular information with epidemiological parameters are important to understand how molecular characteristics reflect in the infection dynamics. We present a new web tool, MapMyFlu, which allows to spatially and temporally display influenza viruses related to a query sequence on a Google Map based on BLAST results against the NCBI Influenza Database. Temporal and geographical trends appear clearly and may help in reconstructing the evolutionary history of a particular sequence. The tool is accessible through a web server, hence without the need for local installation. The website has an intuitive design and provides an easy-to-use service, and is available at http://mapmyflu.ipmb.uni-heidelberg.de.
+  authors: Nicholas Nolte, Nils Kurzawa, Roland Eils, Carl Herrmann
+  link:
+    url: https://academic.oup.com/nar/article/43/W1/W547/2467906
+    display: Nucleic acids research (2015)
+  highlight: 0
+  news2: 
+
+- title: "RSAT 2015: regulatory sequence analysis tools"
+  image: dummy.png
+  description: RSAT (Regulatory Sequence Analysis Tools) is a modular software suite for the analysis of cis-regulatory elements in genome sequences. Its main applications are (i) motif discovery, appropriate to genome-wide data sets like ChIP-seq, (ii) transcription factor binding motif analysis (quality assessment, comparisons and clustering), (iii) comparative genomics and (iv) analysis of regulatory variations. Nine new programs have been added to the 43 described in the 2011 NAR Web Software Issue, including a tool to extract sequences from a list of coordinates (fetch-sequences from UCSC), novel programs dedicated to the analysis of regulatory variants from GWAS or population genomics (retrieve-variation-seq and variation-scan), a program to cluster motifs and visualize the similarities as trees (matrix-clustering). To deal with the drastic increase of sequenced genomes, RSAT public sites have been reorganized into taxon-specific servers. The suite is well-documented with tutorials and published protocols. The software suite is available through Web sites, SOAP/WSDL Web services, virtual machines and stand-alone programs at http://www.rsat.eu/.
+  authors: Alejandra Medina-Rivera, Matthieu Defrance, Olivier Sand, Carl Herrmann, Jaime A Castro-Mondragon, Jeremy Delerce, Sébastien Jaeger, Christophe Blanchet, Pierre Vincens, Christophe Caron, Daniel M Staines, Bruno Contreras-Moreira, Marie Artufel, Lucie Charbonnier-Khamvongsa, Céline Hernandez, Denis Thieffry, Morgane Thomas-Chollier, Jacques van Helden
+  link:
+    url: https://academic.oup.com/nar/article/43/W1/W50/2467887
+    display: Nucleic acids research (2015)
+  highlight: 0
+  news2: 
+
+    - title: "PrOnto database: GO term functional dissimilarity inferred from biological data"
+  image: dummy.png
+  description: Moonlighting proteins are defined by their involvement in multiple, unrelated functions. The computational prediction of such proteins requires a formal method of assessing the similarity of cellular processes, for example, by identifying dissimilar Gene Ontology terms. While many measures of Gene Ontology term similarity exist, most depend on abstract mathematical analyses of the structure of the GO tree and do not necessarily represent the underlying biology. Here, we propose two metrics of GO term functional dissimilarity derived from biological information, one based on the protein annotations and the other on the interactions between proteins. They have been collected in the PrOnto database, a novel tool which can be of particular use for the identification of moonlighting proteins. The database can be queried via an web-based interface which is freely available at http://tagc.univ-mrs.fr/pronto.
+  authors: Charles E Chapple, Carl Herrmann, Christine Brun
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fgene.2015.00200/full
+    display: Front. Genet. (2015).
+  highlight: 0
+  news2: 
+
+- title: "Decoding the regulatory landscape of melanoma reveals TEADS as regulators of the invasive cell state"
+  image: dummy.png
+  description: Transcriptional reprogramming of proliferative melanoma cells into a phenotypically distinct invasive cell subpopulation is a critical event at the origin of metastatic spreading. Here we generate transcriptome, open chromatin and histone modification maps of melanoma cultures; and integrate this data with existing transcriptome and DNA methylation profiles from tumour biopsies to gain insight into the mechanisms underlying this key reprogramming event. This shows thousands of genomic regulatory regions underlying the proliferative and invasive states, identifying SOX10/MITF and AP-1/TEAD as regulators, respectively. Knockdown of TEADs shows a previously unrecognized role in the invasive gene network and establishes a causative link between these transcription factors, cell invasion and sensitivity to MAPK inhibitors. Using regulatory landscapes and in silico analysis, we show that transcriptional reprogramming underlies the distinct cellular states present in melanoma. Furthermore, it reveals an essential role for the TEADs, linking it to clinically relevant mechanisms such as invasion and resistance.
+  authors: Annelien Verfaillie, Hana Imrichova, Zeynep Kalender Atak, Michael Dewaele, Florian Rambow, Gert Hulselmans, Valerie Christiaens, Dmitry Svetlichnyy, Flavie Luciani, Laura Van den Mooter, Sofie Claerhout, Mark Fiers, Fabrice Journe, Ghanem-Elias Ghanem, Carl Herrmann, Georg Halder, Jean-Christophe Marine, Stein Aerts
+  link:
+    url: https://www.nature.com/articles/ncomms7683?origin=ppub
+    display: Nature Communications (2015).
+  highlight: 0
+  news2: 
+
