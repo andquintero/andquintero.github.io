@@ -1,7 +1,7 @@
 ---
-title: "HDSU - Publications"
+title: "Andres - Publications"
 layout: gridlay
-excerpt: "HDSU -- Publications."
+excerpt: "Andres -- Publications."
 sitemap: false
 permalink: /publications/
 ---

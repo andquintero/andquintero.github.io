@@ -1,7 +1,7 @@
 ---
-title: "HDSU - Research"
+title: "Andres - Research"
 layout: textlay
-excerpt: "HDSU -- Research"
+excerpt: "Andres -- Research"
 sitemap: false
 permalink: /research/
 ---
