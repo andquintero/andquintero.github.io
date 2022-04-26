@@ -20,11 +20,9 @@ My research goal is the development and application of computational tools for u
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
         <li data-target="#carousel" data-slide-to="8"></li>
@@ -32,9 +30,6 @@ My research goal is the development and application of computational tools for u
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider_vae_go.png" alt="Slide 1" />
-        </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider_butchr.png" alt="Slide 2" />
         </div>
@@ -43,9 +38,6 @@ My research goal is the development and application of computational tools for u
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider_sccat.png" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider_vae_go.png" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/slider_butchr.png" alt="Slide 6" />
