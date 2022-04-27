@@ -8,16 +8,14 @@ permalink: /resources/
 
 # Resources
 
-One of our main interests in to provide the scientific community with tools that help with reproducible and open research. Ranging from complete pre-processing and downstream analysis pipelines for several types of genomic data, to interactive application to generate publication-ready figures.
-
+Here you can find some of the tools and pipelines I have contributed to develop. 
 
 ## Pipelines for processing of bulk data
 
-We have developed a series of Snakemake pipelines that allow the user to process raw files (fastq) until a final html report, containing basic quality-control statistics, as well as downstream analyses (e.g., footprinting analysis for ATAC-seq data, peak enrichment por ATAC-seq and ChIP-seq).
+I have been involved in the developed of Snakemake pipelines that allow the user to process raw files (fastq) until a final html report, containing basic quality-control statistics, as well as downstream analyses (e.g., footprinting analysis for ATAC-seq data, peak enrichment por ATAC-seq and ChIP-seq).
 
 All the instructions of how to use the pipelines can be found in the following GitHub repositories:
 
-- [Bulk RNA-seq pipeline](https://github.com/hdsu-bioquant/pipelines-RNAseq)
 - [Bulk ChIP-seq pipeline](https://github.com/hdsu-bioquant/pipelines-chipseq)
 - [Bulk ATAC-seq pipeline](https://github.com/hdsu-bioquant/pipelines-ATACseq)
 

@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-I work on the integration of multi-omics data, using and implementing state of the art analysis methods for the understanding of gene regulation and therapeutic target discovery. I am currently working as a postdoc at the **Biomedical Genomics Group @ Health Data Science Unit** at the BioQuant Center and Medical Faculty Heidelberg.
+I work on the integration of multi-omics data, using and implementing state of the art analysis methods for the understanding of gene regulation and therapeutic target discovery. I am currently working as a postdoc at the Biomedical Genomics Group @ Health Data Science Unit at the BioQuant Center and Medical Faculty Heidelberg.
 
 ## Single-cell and bulk multi-omics integration
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/slider_butchr.png){: style="width: 50%; float: left; margin: 0px  10px"}
