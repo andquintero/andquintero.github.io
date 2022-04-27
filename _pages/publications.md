@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications see [below](#full-list-of-publications) or go to [Google Scholar](https://goo.gl/7ZsVxm))
+(For a full list of publications see [below](#full-list-of-publications))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
